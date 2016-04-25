@@ -3,7 +3,8 @@ ___CHANGELOG___
 --- 1.0 ---
 
 
-
+--0.1.9+2-- the Otatop Update-
+  -Added the Otatop
 --0.1.9+1--the Beefy update--
   -didn't add beef
   +started to name updates
